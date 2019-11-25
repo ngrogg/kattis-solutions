@@ -8,4 +8,6 @@ GroggAutori is my solution for the problem "Autori"
 
 GroggQuadrantSelection is my solution for the problem "Quadrant Selection"
 
+GroggTTS is my solution for the problem "Take Two Stones", this one is in C++
+
 All solutions are in Python 3 unless noted otherwise!
