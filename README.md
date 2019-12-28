@@ -13,5 +13,6 @@ GroggSibice is my solution to the problem "Sibice" <br/>
 GroggPot is my solution to the problem "Pot" <br/>
 GroggTarifa is my solution to the problem "Tarifa" <br/>
 GroggND is my solution to the problem "No Duplicates" <br/>
+GroggTri is my solution to the problem "Tri" <br/>
 
 All solutions are in Python 3 unless noted otherwise!
