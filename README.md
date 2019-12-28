@@ -11,5 +11,6 @@ GroggTimeLoop is my solution to the problem "Stuck In A Time Loop", this one is 
 GroggL2L is my solution to the problem "License to Launch" <br/>
 GroggSibice is my solution to the problem "Sibice" <br/>
 GroggPot is my solution to the problem "Pot" <br/>
+GroggTarifa is my solution to the problem "Tarifa" <br/>
 
 All solutions are in Python 3 unless noted otherwise!
