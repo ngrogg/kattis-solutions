@@ -15,5 +15,6 @@ GroggTarifa is my solution to the problem "Tarifa" <br/>
 GroggND is my solution to the problem "No Duplicates" <br/>
 GroggTri is my solution to the problem "Tri" <br/>
 GroggBijele is my solution to the problem "Bijele" <br/>
+GroggNH is my solution to the problem "Nasty Hacks" <br/>
 
 All solutions are in Python 3 unless noted otherwise!
