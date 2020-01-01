@@ -18,5 +18,6 @@ GroggBijele is my solution to the problem "Bijele" <br/>
 GroggNH is my solution to the problem "Nasty Hacks" <br/>
 GroggQALY is my solution to the problem "Quality-Adjusted Life-Year", this one is in C++ <br/>
 GroggRR is my solution to the problem "Roaming Romans" <br/>
+GroggPet is my solution to the problem "Pet", this one is in C++ <br/>
 
 All solutions are in Python 3 unless noted otherwise!
