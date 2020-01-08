@@ -25,5 +25,7 @@ GroggTAYGC is my solution to the problem "This ain't your Grandpa's Checkerboard
 GroggSW is my solution to the problem "Seven Wonders" <br/>
 GroggHM is my solution to the problem "Hissing Microphone" <br/>
 GroggSpeedLimit is my solution to the problem "Speed Limit", this one is in C++ <br/>
+GroggVolim is my solution to the problem "Volim", this one is in C++ <br/>
 
-All solutions are in Python 3 unless noted otherwise!
+All solutions are in Python 3 unless noted otherwise! <br/>
+Please do not copy my solutions into Kattis!
