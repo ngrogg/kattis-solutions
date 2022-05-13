@@ -7,7 +7,8 @@
 
 using namespace std; 
 
-int main() {
+// Function to run program
+void runProgram(){
 	// Declare variables 
 	int numOne, numTwo;
 
@@ -22,6 +23,11 @@ int main() {
 	else {
 		cout << "0" << endl;
 	}
+}
 
+int main() {
+
+	// Run program
+	runProgram();
 	return 0;
 }
