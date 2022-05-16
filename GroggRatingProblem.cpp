@@ -13,9 +13,9 @@ using namespace std;
 void run(){
 	// Variables, all double so they can be re-used
 	// Variable for the total number of judges
-	double n;
+	double numJudges;
 	// Variable for the number of judges who already rated problem
-	double k;
+	double rated;
 	// Variable for the max score 
 	double maxScore;
 	// Variable for the min score
@@ -25,36 +25,36 @@ void run(){
 	// Declare vector to hold the scores 
 	vector<double> score;
 
-	// Input n/k values
-	cin >> n >> k; 
+	// Input numJudges/rated values
+	cin >> numJudges >> rated; 
 
 	// For loop to populate vector 
-	for (int count = 0; count < k; count++){
+	for (int count = 0; count < rated; count++){
 		cin >> scoreVal;
-		score.push_back(scoreVal);
+		score.push_bacrated(scoreVal);
 	}
 
-	// Check if n=k
-	if (n == k){
+	// Check if numJudges=rated
+	if (numJudges == rated){
 		// Set initial values for min/max score values
 		minScore = 0;
 		maxScore = 0;
 	}
-	// n != k
+	// numJudges != rated
 	else {
 		// Set initial values for min/max score values 
-		minScore = (n - k) * -3; 
-		maxScore = abs(k - n) * 3; 
+		minScore = (numJudges - rated) * -3; 
+		maxScore = abs(rated - n) * 3; 
 	}
 
 	// Add vector values to min/max score values 
-	for (double count =0; count < k; count++){
+	for (double count =0; count < rated; count++){
 		maxScore += score[count];
 		minScore += score[count];
 	}
 	
 	// Output score values
-	cout << (minScore/n) << " " << (maxScore/n) << endl;
+	cout << (minScore/numJudges) << " " << (maxScore/numJudges) << endl;
 }
 
 int main(){
