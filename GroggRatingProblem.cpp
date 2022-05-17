@@ -31,7 +31,7 @@ void run(){
 	// For loop to populate vector 
 	for (int count = 0; count < rated; count++){
 		cin >> scoreVal;
-		score.push_bacrated(scoreVal);
+		score.push_back(scoreVal);
 	}
 
 	// Check if numJudges=rated
@@ -44,7 +44,7 @@ void run(){
 	else {
 		// Set initial values for min/max score values 
 		minScore = (numJudges - rated) * -3; 
-		maxScore = abs(rated - n) * 3; 
+		maxScore = abs(rated - numJudges) * 3; 
 	}
 
 	// Add vector values to min/max score values 
