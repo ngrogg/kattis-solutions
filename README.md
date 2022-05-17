@@ -31,7 +31,7 @@ GroggBatterUp is my solution to the problem "Batter Up", this one is in C++ <br/
 GroggIBEM is my solution to the problem "I've been everywhere, man", this one is in C++ <br/>
 GroggRatingProblem is my solution to the problem "Rating Problems", this one is in C++ <br/>
 GroggWhichIsGreater is my solution to the problem "Which is Greater?", this one is in C++ <br/> 
-GroggFilip is my solutoin to the problem "Filip", this one is in C++ <br/>
+GroggFilip is my solution to the problem "Filip", this one is in C++ <br/>
 
 All solutions are in Python 3 unless noted otherwise! <br/>
 Please do not copy my solutions directly into Kattis! <br/>
