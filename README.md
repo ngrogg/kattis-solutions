@@ -26,12 +26,12 @@ GroggSW is my solution to the problem "Seven Wonders" <br/>
 GroggHM is my solution to the problem "Hissing Microphone" <br/>
 GroggSpeedLimit is my solution to the problem "Speed Limit", this one is in C++ <br/>
 GroggVolim is my solution to the problem "Volim", this one is in C++ <br/>
-GroggR2 is my solution to the problem "R2", this one is in C++ </br>
-GroggBatterUp is my solution to the problem "Batter Up", this one is in C++ </br>
-GroggIBEM is my solution to the problem "I've been everywhere, man", this one is in C++ </br>
-GroggRatingProblem is my solution to the problem "Rating Problems", this one is in C++ </br>
-GroggWhichIsGreater is my solution to the problem "Which is Greater?", this one is in C++ </br> 
-GroggFilip is my solutoin to the problem "Filip", this one is in C++ </br>
+GroggR2 is my solution to the problem "R2", this one is in C++ <br/>
+GroggBatterUp is my solution to the problem "Batter Up", this one is in C++ <br/>
+GroggIBEM is my solution to the problem "I've been everywhere, man", this one is in C++ <br/>
+GroggRatingProblem is my solution to the problem "Rating Problems", this one is in C++ <br/>
+GroggWhichIsGreater is my solution to the problem "Which is Greater?", this one is in C++ <br/> 
+GroggFilip is my solutoin to the problem "Filip", this one is in C++ <br/>
 
-All solutions are in Python 3 unless noted otherwise! </br>
-Please do not copy my solutions directly into Kattis! </br>
+All solutions are in Python 3 unless noted otherwise! <br/>
+Please do not copy my solutions directly into Kattis! <br/>
