@@ -13,5 +13,7 @@ GroggIBEM is my solution to the problem "I've been everywhere, man" <br/>
 GroggRatingProblem is my solution to the problem "Rating Problems" <br/>
 GroggWhichIsGreater is my solution to the problem "Which is Greater?" <br/> 
 GroggFilip is my solution to the problem "Filip" <br/>
+GroggTwoSum is my solution to the problem "Two Sum" <br/>
+GroggTriangleArea is my solution to the problem "Triangle Area" <br/>
 
 Please do not copy my solutions directly into Kattis! <br/>
