@@ -19,5 +19,6 @@ GroggJumboJavelin is my solution to the problem "Jumbo Javelin" <br>
 GroggIsItHalloween is my solution to the problem "IsItHalloween.com" <br> 
 GroggJLJ is my solution to the problem "Jack O Lantern Juxtaposition" <br>
 GroggOddEcho is my solution to the problem "Odd Echo" <br>
+GroggSortTwoNumbers is my solution to the problem "Sort Two Numbers" <br>
 
 Please do not copy my solutions directly into Kattis! <br>
