@@ -21,7 +21,6 @@ void runProgram(){
 }
 
 int main(){
-
 	// Run Program
 	runProgram();
 	return 0;
