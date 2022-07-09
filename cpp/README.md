@@ -21,5 +21,6 @@ GroggJLJ is my solution to the problem "Jack O Lantern Juxtaposition" <br>
 GroggOddEcho is my solution to the problem "Odd Echo" <br>
 GroggSortTwoNumbers is my solution to the problem "Sort Two Numbers" <br>
 GroggTurnItUp is my solution to the problem "Turn it Up" <br>
+GroggGrassSeedInc is my solution to the problem "Grass Seed Inc" <br>
 
 Please do not copy my solutions directly into Kattis! <br>
