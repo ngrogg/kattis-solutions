@@ -22,5 +22,6 @@ GroggOddEcho is my solution to the problem "Odd Echo" <br>
 GroggSortTwoNumbers is my solution to the problem "Sort Two Numbers" <br>
 GroggTurnItUp is my solution to the problem "Turn it Up" <br>
 GroggGrassSeedInc is my solution to the problem "Grass Seed Inc" <br>
+GroggGCVWR is my solution to the problem "GCVWR" <br>
 
 Please do not copy my solutions directly into Kattis! <br>
