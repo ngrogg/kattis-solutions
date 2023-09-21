@@ -1,6 +1,9 @@
 // Import statements 
 use std::io; 
 
+// IMPORTANT
+// This was a kludge job just to test Rust on my system
+
 // Main function to run program
 fn main() {
     // Keep main minimal, run everything in it's own function

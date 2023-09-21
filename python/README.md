@@ -22,5 +22,6 @@ GroggSW is my solution to the problem "Seven Wonders" <br>
 GroggHM is my solution to the problem "Hissing Microphone" <br>
 GroggGreetings is my solution to the problem "Greetings!" <br>
 GroggFYI is my solution to the problem "FYI" <br>
+GroggLeggja is my solution to the problem "Leggja saman" <br>
 
 Please do not copy my solutions directly into Kattis! <br>
