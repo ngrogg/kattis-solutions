@@ -23,5 +23,6 @@ GroggHM is my solution to the problem "Hissing Microphone" <br>
 GroggGreetings is my solution to the problem "Greetings!" <br>
 GroggFYI is my solution to the problem "FYI" <br>
 GroggLeggja is my solution to the problem "Leggja saman" <br>
+GroggAddTwoNumbers is my solution to the problem "Add Two Numbers" <br>
 
 Please do not copy my solutions directly into Kattis! <br>
