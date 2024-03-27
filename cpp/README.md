@@ -24,5 +24,6 @@ GroggTurnItUp is my solution to the problem "Turn it Up" <br>
 GroggGrassSeedInc is my solution to the problem "Grass Seed Inc" <br>
 GroggGCVWR is my solution to the problem "GCVWR" <br>
 GroggOvissa is my solution to the problem "Ovissa" <br>
+GroggFindingAnA is my solution to the problem "Finding An A" <br>
 
 Please do not copy my solutions directly into Kattis! <br>
