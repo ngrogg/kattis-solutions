@@ -29,3 +29,5 @@ Solutions are as follows: <br>
 * **GroggAddingTrouble** is my solution to the problem [Adding Trouble](https://open.kattis.com/problems/addingtrouble) <br>
 
 **Please do not copy my solutions directly into Kattis!** <br>
+
+[Return to main page](https://github.com/ngrogg/kattis-solutions/tree/master)

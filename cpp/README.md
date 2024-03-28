@@ -29,3 +29,5 @@ Solutions are as follows: <br>
 * **GroggCountTheVowels** is my solution to the problem [Count the Vowels](https://open.kattis.com/problems/countthevowels) <br>
 
 **Please do not copy my solutions directly into Kattis!** <br>
+
+[Return to main page](https://github.com/ngrogg/kattis-solutions/tree/master)
