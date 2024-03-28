@@ -1,7 +1,8 @@
-# Kattis
+# Kattis Solutions: Rust
 
-My accepted solutions to kattis problems <br>
+My accepted rust solutions to Kattis problems <br>
 
-GroggOddities is my solution to the problem "Oddities"<br>
+Solutions are as follows: <br>
+* **GroggOddities** is my solution to the problem [Oddities](https://open.kattis.com/problems/oddities)<br>
 
-Please do not copy my solutions directly into Kattis! <br>
+**Please do not copy my solutions directly into Kattis!** <br>
