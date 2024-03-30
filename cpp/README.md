@@ -27,6 +27,7 @@ Solutions are as follows: <br>
 * **GroggOvissa** is my solution to the problem [Ovissa](https://open.kattis.com/problems/ovissa) <br>
 * **GroggFindingAnA** is my solution to the problem [Finding An A](https://open.kattis.com/problems/findingana) <br>
 * **GroggCountTheVowels** is my solution to the problem [Count the Vowels](https://open.kattis.com/problems/countthevowels) <br>
+* **GroggReduplication** is my solution to the problem [Reduplication](https://open.kattis.com/problems/reduplikation) <br>
 
 **Please do not copy my solutions directly into Kattis!** <br>
 
