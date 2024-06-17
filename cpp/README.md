@@ -30,6 +30,7 @@ Solutions are as follows: <br>
 * **GroggReduplication** is my solution to the problem [Reduplication](https://open.kattis.com/problems/reduplikation) <br>
 * **GroggSpritt** is my solution to the problem [Spritt](https://open.kattis.com/problems/spritt) <br>
 * **GroggKeysPhoneWallet** is my solution to the problem [Keys, Phone, Wallet](https://open.kattis.com/problems/keysphonewallet)
+* **GroggColdputerScience** is my solution to the problem [Cold-puter Science](https://open.kattis.com/problems/cold)
 
 **Please do not copy my solutions directly into Kattis!** <br>
 
