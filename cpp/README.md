@@ -33,6 +33,7 @@ Solutions are as follows: <br>
 * **GroggColdputerScience** is my solution to the problem [Cold-puter Science](https://open.kattis.com/problems/cold)
 * **GroggJudgingMoose** is my solution to the problem [Judging Moose](https://open.kattis.com/problems/judgingmoose)
 * **GroggDragaFra** is my solution to the problem [Draga Fra](https://open.kattis.com/problems/dragafra)
+* **GroggAShortcutToWhat** is my solution to the problem [A shortcut to what?](https://open.kattis.com/problems/shortcuttowhat)
 
 **Please do not copy my solutions directly into Kattis!** <br>
 
