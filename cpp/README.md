@@ -34,6 +34,7 @@ Solutions are as follows: <br>
 * **GroggJudgingMoose** is my solution to the problem [Judging Moose](https://open.kattis.com/problems/judgingmoose)
 * **GroggDragaFra** is my solution to the problem [Draga Fra](https://open.kattis.com/problems/dragafra)
 * **GroggAShortcutToWhat** is my solution to the problem [A shortcut to what?](https://open.kattis.com/problems/shortcuttowhat)
+* **GroggDecimalDeletion** is my solution to the problem [Decimal Deletion](https://open.kattis.com/problems/decimaldeletion)
 
 **Please do not copy my solutions directly into Kattis!** <br>
 
