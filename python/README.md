@@ -27,6 +27,7 @@ Solutions are as follows: <br>
 * **GroggAddTwoNumbers** is my solution to the problem [Add Two Numbers](https://open.kattis.com/problems/addtwonumbers) <br>
 * **GroggDigitSwap** is my solution to the problem [Digit Swap](https://open.kattis.com/problems/digitswap) <br>
 * **GroggAddingTrouble** is my solution to the problem [Adding Trouble](https://open.kattis.com/problems/addingtrouble) <br>
+* **GroggVandalism** is my solution to the problem [Vandalism](https://open.kattis.com/problems/vandalism)
 
 **Please do not copy my solutions directly into Kattis!** <br>
 
