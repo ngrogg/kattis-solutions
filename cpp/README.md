@@ -36,6 +36,7 @@ Solutions are as follows: <br>
 * **GroggAShortcutToWhat** is my solution to the problem [A shortcut to what?](https://open.kattis.com/problems/shortcuttowhat)
 * **GroggDecimalDeletion** is my solution to the problem [Decimal Deletion](https://open.kattis.com/problems/decimaldeletion)
 * **GroggATerribleFortress** is my solution to the problem [A Terrible Fortress](https://open.kattis.com/problems/aterriblefortress)
+* **GroggCallForProblems** is my solution to the problem [Call for Problems](https://open.kattis.com/problems/callforproblems)
 
 **Please do not copy my solutions directly into Kattis!** <br>
 
